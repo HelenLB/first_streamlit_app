@@ -55,7 +55,7 @@ streamlit.write('The user entered ', fruit_choice)
 #streamlit.dataframe(fruityvice_normalized)
 
 #Not running anything past here while testing
-streamlit.stop()
+#streamlit.stop()
 
 streamlit.header("View Our Fruit List - Add Your Favourites!")
 #snowflake functions
